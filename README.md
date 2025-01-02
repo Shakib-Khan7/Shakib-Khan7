@@ -1,5 +1,5 @@
 # Hi there! 👋
-I am MD SHAKIB KHAN
+I AM MD SHAKIB KHAN
 
 ## About Me  
 🌟 **Frontend Developer**  
